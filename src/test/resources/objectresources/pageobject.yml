@@ -1,0 +1,12 @@
+HomePage:
+  Continuer_sans_accepter_cookies:"//span[contains(text(),'Continuer sans accepter')]"
+  je_prendre_mon_devis:"//div[contains(text(),'Je reprends mon devis')]"
+  j_obtiens_mon_tarif:"//div[contains(text(),'J’obtiens mon tarif')]"
+souscription:
+  Continuer_sans_accepter_cookies:"//span[contains(text(),'Continuer sans accepter')]"
+  recherche_par_plaque:"//body/div[@id='__next']/div[1]/div[1]/div[2]/form[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]"
+  quelle_est_votre_plaque_d_immatriculation:"//input[@id='vehiculeImmatriculation']"
+  confirmer:"//body/div[@id='__next']/div[1]/div[1]/div[2]/form[1]/div[2]/div[1]/div[2]/button[1]/div[1]"
+
+
+

@@ -1,0 +1,7 @@
+PageObjects\SouscriptionPage.class
+PageObjects\HomePage.class
+StepDefinitions\Hooks.class
+Utilities\BaseClass.class
+StepDefinitions\TrouverMaVoitureSteps.class
+TestRunner.class
+Utilities\PropertiesReader.class
